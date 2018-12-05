@@ -1,0 +1,16 @@
+﻿  Building.cpp
+  Elevator.cpp
+c:\users\prati\documents\comsc 200\assignment\test\elevator.cpp(69): warning C4018: '<': signed/unsigned mismatch
+c:\users\prati\documents\comsc 200\assignment\test\elevator.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  Floor.cpp
+  main (1).cpp
+c:\users\prati\documents\comsc 200\assignment\test\main (1).cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Panel.cpp
+c:\users\prati\documents\comsc 200\assignment\test\panel.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\prati\documents\comsc 200\assignment\test\panel.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\prati\documents\comsc 200\assignment\test\panel.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\prati\documents\comsc 200\assignment\test\panel.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\prati\documents\comsc 200\assignment\test\panel.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  Rider.cpp
+  Generating Code...
+  Test.vcxproj -> C:\Users\prati\Documents\ComSC 200\assignment\Test\Debug\Test.exe
